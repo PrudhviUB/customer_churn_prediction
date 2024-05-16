@@ -1,0 +1,43 @@
+{
+    "CreditScore": [
+      350.0,
+      850.0
+    ],
+    "Age": [
+      18.0,
+      92.0
+    ],
+    "Tenure": [
+      0.0,
+      10.0
+    ],
+    "Balance": [
+      0.0,
+      250898.09
+    ],
+    "NumOfProducts": [
+      1.0,
+      4.0
+    ],
+    "EstimatedSalary": [
+      11.58,
+      199992.48
+    ],
+    "HasCrCard": [
+      0,
+      1
+    ],
+    "IsActiveMember": [
+      0,
+      1
+    ],
+    "Geography": [
+      "France",
+      "Germany",
+      "Spain"
+    ],
+    "Gender": [
+      "Female",
+      "Male"
+    ]
+  }
